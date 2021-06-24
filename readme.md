@@ -17,10 +17,6 @@ To install the same packages, run the command:
 pip install -r requirements.txt
 ```
 
-## Load the trained model and run Inference
-```python
-```
-
 ## Author
 **Name**: Sifat Ul Alam <br>
 **Email**: sifatnabil@gmail.com <br>
